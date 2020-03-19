@@ -38,6 +38,10 @@ services:
       - mongocluster
     ports:  
       - 8082:8082
+# Added to /etc/hosts in container      
+    extra_hosts:
+      - "somehost:162.242.195.82"
+      - "otherhost:50.31.209.229"      
 networks:
   mongocluster:
     driver: bridge
