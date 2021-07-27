@@ -3,6 +3,8 @@ https://www.youtube.com/watch?v=vVTExFrUxE4
 
 https://www.youtube.com/watch?v=k5PeywcbVYc
 
+# with user and password
+https://www.youtube.com/watch?v=-XzMfd4XQak
 <pre><code>
 To see replicaset run following command
 rs.status().set
